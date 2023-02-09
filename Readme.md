@@ -1,6 +1,6 @@
 To install all dependencies
 
-pip3 install -r requirementa.txt
+pip3 install -r requirement.txt
 
 Pre requisiteb:
  1. Redis server
